@@ -1,0 +1,8 @@
+*.unity filter=lfs diff=lfs merge=lfs -text
+
+# Forçar arquivos Python como texto
+*.py text
+
+# Forçar arquivos de configuração como texto
+*.md text
+*.txt
