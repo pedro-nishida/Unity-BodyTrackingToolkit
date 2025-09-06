@@ -4,10 +4,10 @@ Este projeto integra rastreamento corporal em tempo real usando Python (OpenCV +
 
 ## Demonstração
 
-![Etapa 1](README files/1.png)
-![Etapa 2](README files/2.png)
-![Etapa 3](README files/3.png)
-![Etapa 4](README files/4.png)
+![Etapa 1](README_files/1.png)
+![Etapa 2](README_files/2.png)
+![Etapa 3](README_files/3.png)
+![Etapa 4](README_files/4.png)
 
 ## Ideia
 
