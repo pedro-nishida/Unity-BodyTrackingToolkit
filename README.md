@@ -2,6 +2,13 @@
 
 Este projeto integra rastreamento corporal em tempo real usando Python (OpenCV + cvzone) e Unity, permitindo visualização e análise de movimentos humanos para aplicações como contagem de exercícios físicos.
 
+## Demonstração
+
+![Etapa 1](README files/1.png)
+![Etapa 2](README files/2.png)
+![Etapa 3](README files/3.png)
+![Etapa 4](README files/4.png)
+
 ## Ideia
 
 - **PythonCV**: Captura vídeo da webcam, detecta a pose corporal, calcula ângulos e envia os dados via UDP em formato JSON.
